@@ -1,0 +1,16 @@
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.exe
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.pdb
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.csprojAssemblyReference.cache
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\View\MainPage.baml
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MainWindow.g.cs
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\View\MainPage.g.cs
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\App.g.cs
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern_MarkupCompile.cache
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern_MarkupCompile.lref
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MainWindow.baml
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.g.resources
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.Properties.Resources.resources
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.csproj.GenerateResource.cache
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.csproj.CoreCompileInputs.cache
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.exe
+D:\E\My Dreams\repos\WPF\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.pdb
