@@ -1,11 +1,12 @@
-## MVpattern
-MVpattern,Design pattern ,C#,SqlServer
+# MVpattern
+# MVpattern,Design pattern ,C#,SqlServer
 # -C# .net 3.5
 # -sqlserver 2014
 
-# Procedure spBooks
+
 # database name LlibraryDB
 # table name Books(BookId int,BookName nvarchar 50)
+# Procedure spBooks
 
 create PROCEDURE spBooks 
 	@BookId int =null, 
