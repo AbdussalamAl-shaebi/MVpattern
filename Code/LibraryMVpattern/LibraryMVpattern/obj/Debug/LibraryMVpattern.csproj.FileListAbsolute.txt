@@ -1,0 +1,10 @@
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\bin\Debug\LibraryMVpattern.exe
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\bin\Debug\LibraryMVpattern.pdb
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.csprojAssemblyReference.cache
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.Properties.Resources.resources
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.View.BooksForm.resources
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.Home.resources
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.csproj.GenerateResource.cache
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.csproj.CoreCompileInputs.cache
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.exe
+C:\Users\Ashuaebi\source\repos\LibraryMVpattern\LibraryMVpattern\obj\Debug\LibraryMVpattern.pdb
