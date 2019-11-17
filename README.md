@@ -27,11 +27,11 @@ else if @OperationsType = 2
 		where BookId = @BookId
 
 else if @OperationsType = 3
-		DELETE FROM [dbo].[Books]
-		where [BookId] = @BookId
+		DELETE FROM dbo.Books
+		where BookId = @BookId
 
 
 else if @OperationsType = 4
-		SELECT [BookId]
-			,[BookName]
-		FROM [dbo].[Books
+		SELECT BookId
+			,BookName
+		FROM dbo.Books
